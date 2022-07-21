@@ -1,0 +1,23 @@
+fileName;variableName;description;unitText;variableType
+survey-data-general-tidy.csv;general_country;I spent most of my childhood in the following country... ;;
+survey-data-general-tidy.csv;general_gender;I identify as female/male/non-binary/prefer not to say/other;;
+survey-data-general-tidy.csv;general_job;I am an ETH student/University student/ETH employee/ETH professor/Prefer not to say/Other;;
+survey-data-general-tidy.csv;general_department;I am a member of the following department;;
+survey-data-general-tidy.csv;residency;Where do you currently live?;;
+survey-data-general-tidy.csv;housing_family;Do you life with your parents/family? Y/N;;
+survey-data-general-tidy.csv;housing_condition;What is the type of housing you live in? Shared flat/own flat/shared house/?;;
+survey-data-compost-tidy.csv;compost_separation_frequency;How often do you separate organic waste/compost? (1 to 5);;
+survey-data-compost-tidy.csv;compost_disposal;Where do you dispose of your organic waste?;;
+survey-data-compost-tidy.csv;factors_discouraging;What do you think might discourage people from separating organic waste?;;
+survey-data-compost-tidy.csv;factors_encouraging;What do you think could encourage people to separate organic waste?;;
+survey-data-recycling-tidy.csv;question;PET/paper/cardboard/glass/milkcarton/plasticbottles/plasticpackaging/aluminum/steel/electronics/batteries/coffeecapsules;;
+survey-data-recycling-tidy.csv;recycling;How often do you separate this type of waste? (1 to 5);;
+survey-data-recycling-tidy.csv;reason;If not always, what is the reason you don't separate this type of waste?;;
+waste-characterisation-data-tidy.csv;objid;ID of the bin on the map from ERZ.;;
+waste-characterisation-data-tidy.csv;location;Location of the bin, ETH or Old town (Bellevue);;
+waste-characterisation-data-tidy.csv;bin_id;ID of the bin used by ERZ;;
+waste-characterisation-data-tidy.csv;bin_id_2;ID that was given to the bin on collection day;;
+waste-characterisation-data-tidy.csv;day_of_collection;Day of collection;;
+waste-characterisation-data-tidy.csv;category;Category of waste: PET/paper/glass/metal/other;;
+waste-characterisation-data-tidy.csv;weight;Weight of the waste in kg;;
+waste-characterisation-data-tidy.csv;type;Type of waste: recyclable or non-recyclable;;

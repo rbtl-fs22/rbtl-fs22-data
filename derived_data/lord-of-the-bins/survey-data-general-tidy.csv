@@ -1,0 +1,28 @@
+id,general_country,general_gender,general_job,general_departement,residency,housing_family,housing_condition
+1,Switzerland,Male,ETH student (Bachelor/Master/PhD),ITET,Zürich City (Kreis xx),No,Shared flat
+2,Germany,Male,ETH student (Bachelor/Master/PhD),MTEC,Zürich City (Kreis xx),No,Shared flat
+3,Switzerland,Male,ETH student (Bachelor/Master/PhD),INFK,Near Zürich (Umland),Yes,Shared house
+4,Switzerland,Male,ETH student (Bachelor/Master/PhD),INFK,Near Zürich (Umland),Yes,Shared flat
+5,Switzerland,Female,ETH student (Bachelor/Master/PhD),MATL,Zürich City (Kreis xx),No,Shared flat
+6,Switzerland,Male,ETH student (Bachelor/Master/PhD),INFK,Zürich City (Kreis xx),No,Shared flat
+7,Switzerland,Female,ETH student (Bachelor/Master/PhD),MATL,Near Zürich (Umland),No,Shared flat
+8,Switzerland,Male,ETH student (Bachelor/Master/PhD),MAVT,Not near Zürich,Yes,Shared house
+9,Italy,Male,ETH student (Bachelor/Master/PhD),INFK,Zürich City (Kreis xx),Yes,Shared flat
+10,China,Male,University student,I do not work/study at ETH,Near Zürich (Umland),No,Shared flat
+11,Germany,Male,ETH student (Bachelor/Master/PhD),ITET,Zürich City (Kreis xx),No,Shared flat
+12,Spain,Male,ETH student (Bachelor/Master/PhD),MAVT,Near Zürich (Umland),No,Shared flat
+13,Switzerland,Male,ETH student (Bachelor/Master/PhD),CHAB,Zürich City (Kreis xx),No,Shared flat
+14,Iceland,Male,ETH student (Bachelor/Master/PhD),INFK,Zürich City (Kreis xx),No,Shared flat
+15,Germany,Male,ETH student (Bachelor/Master/PhD),MATL,Near Zürich (Umland),No,Shared flat
+16,Switzerland,Male,ETH student (Bachelor/Master/PhD),MAVT,Near Zürich (Umland),Yes,Shared house
+17,Luxembourg,Male,ETH student (Bachelor/Master/PhD),MATL,Zürich City (Kreis xx),No,Shared flat
+18,Switzerland,Male,ETH student (Bachelor/Master/PhD),MAVT,Near Zürich (Umland),Yes,Shared house
+19,China,Male,ETH student (Bachelor/Master/PhD),MAVT,Zürich City (Kreis xx),No,Shared flat
+20,Brazil,Male,ETH student (Bachelor/Master/PhD),BIOL,Zürich City (Kreis xx),No,Own flat
+21,Turkey,Male,ETH student (Bachelor/Master/PhD),PHYS,Zürich City (Kreis xx),No,Shared flat
+22,Switzerland,Male,ETH student (Bachelor/Master/PhD),ITET,Not near Zürich,Yes,Shared house
+23,Switzerland,Female,ETH student (Bachelor/Master/PhD),USYS,Zürich City (Kreis xx),Yes,Shared flat
+24,Switzerland,Male,ETH student (Bachelor/Master/PhD),PHYS,Not near Zürich,Yes,Shared house
+25,Italy,Male,Post doc,HEST,Zürich City (Kreis xx),No,Own flat
+26,Switzerland,Female,ETH student (Bachelor/Master/PhD),MATH,Zürich City (Kreis xx),Yes,Shared flat
+27,Switzerland,Male,NA,MTEC,Zürich City (Kreis xx),No,Shared flat

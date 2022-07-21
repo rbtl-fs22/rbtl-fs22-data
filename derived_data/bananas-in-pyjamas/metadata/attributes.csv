@@ -1,0 +1,37 @@
+﻿fileName;variableName;description;unitText
+survey-data-general-tidy.csv;id;id given to the participants of the survey anonymously;NA
+survey-data-general-tidy.csv;date;date the questionnaire was done;YYYY-MM-DD
+survey-data-general-tidy.csv;age;age of survey participant;years
+survey-data-general-tidy.csv;zh_citizen;does the  survey participant live in Zurich?;NA
+survey-data-general-tidy.csv;recycling_recognition;does the  survey participant know how the recycling collection points look like in his or her hometown?;NA
+survey-data-general-tidy.csv;search_location;In general, if you don't know where the next RCP is. How likely is it, that you try to find out where it is? Options: very likely-likely-neutral-unlikely-very unlikely.;NA
+survey-data-general-tidy.csv;self_filled;Was the survey filled out by the participant (yes) or was it done by the questioner.;NA
+survey-data-general-tidy.csv;recycling_orientation;Based on where the survey participant lives, does he or she know where the nearest recycling collection point is? ;NA
+survey-data-behaviour-tidy.csv;id;id given to the participants of the survey anonymously;NA
+survey-data-behaviour-tidy.csv;question;Abbrevation for the question specified in the abbreviations-question.csv file.;NA
+survey-data-behaviour-tidy.csv;category;Variable that shows if the answer was made for either a glass bottle or an aluminium can.;NA
+survey-data-behaviour-tidy.csv;answer;Answer options for the situations specified in the abbreviations-answers.csv file.;NA
+survey-data-behaviour-tidy.csv;answer;Abbrevation for the answer options for the situations specified in the abbreviations-answers.csv file.;NA
+abbreviations-questions.csv;question;Abbreviation of the question specified in the variable extended_question in abbraviations-questions.csv;NA
+abbreviations-questions.csv;extended_question;Description of the situations the participants of the survey where asked about in the survey;NA
+abbreviations-answers.csv;answer_short;Abbreviation of the answer options specified in variable extended_question;NA
+abbreviations-answers.csv;answer;Answer options for different situations;NA
+abbreviations-answers.csv;visible_close;"Binary variable that shows if the answer was an option for the question defined with the same abbreviation ""visible_close"" in the abbraviations-answer.csv file.";NA
+abbreviations-answers.csv;visible_far;"Binary variable that shows if the answer was an option for the question defined with the same abbreviation ""visible_far"" in the abbraviations-answer.csv file.";NA
+abbreviations-answers.csv;invisible_close;"Binary variable that shows if the answer was an option for the question defined with the same abbreviation ""invisible_close"" in the abbraviations-answer.csv file.";NA
+abbreviations-answers.csv;invisible_close_unknown;"Binary variable that shows if the answer was an option for the question defined with the same abbreviation ""invisible_close_unknown"" in the abbraviations-answer.csv file.";NA
+abbreviations-answers.csv;invisible_far;"Binary variable that shows if the answer was an option for the question defined with the same abbreviation ""invisible_far"" in the abbraviations-answer.csv file.";NA
+abbreviations-answers.csv;invisible_far_unknown;"Binary variable that shows if the answer was an option for the question defined with the same abbreviation ""invisible_far_unknown"" in the abbraviations-answer.csv file.";NA
+waste-characterisation-data-cans-tidy.csv;bag_nr;bag number for identification;NA
+waste-characterisation-data-cans-tidy.csv;nr_cans;number of cans found in the bag;number of cans
+waste-characterisation-data-tidy.csv;bag_nr;bag number for identification;NA
+waste-characterisation-data-tidy.csv;category;waste category that was measured (glass, metal, or others);NA
+waste-characterisation-data-tidy.csv;weight;weight measured;kg
+bin-list-long.csv;bag;"bag number for  identification that correlates with the number of the variable ""bag_nr"" in the waste-characteisation-data-* files";NA
+bin-list-long.csv;objid;object id for the public bins inherited from the ERZ Data;NA
+bin-list-long.csv;gefaess_id;Gefäss id for the public bins inherited from the ERZ Data;NA
+bin-list-long.csv;recycling_station;Name of the closest recycling station with respect to the bin;NA
+bin-list-long.csv;tram_station;Name of the closest tram station with respect to the bin;NA
+bin-list-long.csv;frequency;Number of data collections from this bin;NA
+bin-list-long.csv;distance_category;Distance categorization as discribed in the abbreviations-aquestion file (1-visible_close, 2-visible_far, 3-invisible_close, 4-invisible_far;NA
+bin-list-long.csv;distance_to_walk;Shortest distance to walk from the bin to the recycling station. Not as the crow flies!!;m

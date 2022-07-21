@@ -1,0 +1,38 @@
+fileName,variable_name,description,unitText
+UserResponses.csv,"Date Started",date question were asked,date
+UserResponses.csv,"live_in_zh","Do you live in Zurich?",text
+UserResponses.csv,"work_in_zh","Do you work in Zurich?",text
+UserResponses.csv,"age","How old are you?",text
+UserResponses.csv,"recycling_bin_type","What kind of recycling bins are here at Bellevue?",text
+UserResponses.csv,"look_at_bin","Did they have to peak at the bins to answer the previous question?",text
+UserResponses.csv,"symbol_understandable","Do you find the recycling bin symbols in Zurich easy to understand?",text
+UserResponses.csv,"recyclable_in_bin_close","How likely is it that you throw the recyclables in a common bin when a recycle bin is close (max. 10m)?",text
+UserResponses.csv,"recyclable_in_bin_far","How likely is it that you throw the recyclables in a common bin when there is no recycle bin in the vicinity (more than 10m away)?",text
+UserResponses.csv,"willingnes_recycling","How far would you be willing to go to put trash in the correct bin. (i.e recyclables in the corresponding recycle bin)",text
+UserResponses.csv,"smoker_throw_cig","Where do you think most smokers throw away their cigarettes?",text
+UserResponses.csv,"smoker","Do you smoke?",text
+UserResponses.csv,"cigarette_on_floor_far","How likely is it that you throw your cigarette on the floor when no cigarette disposal bin is available?",text
+UserResponses.csv,"cigarette_on_floor_close","How likely is it that you throw your cigarette in the bin/cigarette disposal when standing near to a bin (max 10m)?",text
+UserResponses.csv,"satisfaction_disposal_possibility","How satisfied are you with the waste disposal possibility in Bellevue?",text
+UserResponses.csv,"number_bin","How many waste disposal bins do you think there are at the Bellevue tram station?",text
+rtbl_fs22_cigarets_in_bellevue.csv,number,bin number (this project only),integer (1-9)
+rtbl_fs22_cigarets_in_bellevue.csv,identifier,object text identifier,text identifier
+rtbl_fs22_cigarets_in_bellevue.csv,location,location of bin,address
+rtbl_fs22_cigarets_in_bellevue.csv,ch_coordinates_x,X coordinates of bin (CH coordinates),nine digit integer
+rtbl_fs22_cigarets_in_bellevue.csv,ch_coordinates_y,Y coordinates of bin (CH coordinates),nine digit integer
+rtbl_fs22_cigarets_in_bellevue.csv,bin_type,bin type,Abfallhai/Recyclingstation
+rtbl_fs22_cigarets_in_bellevue.csv,cigaret_number,number of cigarets contained in the bin,integer
+rtbl_fs22_cigarets_in_bellevue.csv,comment,comment,text
+rtbl_fs22_wast_composition_bellevue.csv,number,bin number (this project only),integer (1-9)
+rtbl_fs22_wast_composition_bellevue.csv,identifier,object text identifier,text_identifier
+rtbl_fs22_wast_composition_bellevue.csv,location,location of bin,address
+rtbl_fs22_wast_composition_bellevue.csv,ch_coordinates_x,X coordinates of bin (CH coordinates),nine digit integer
+rtbl_fs22_wast_composition_bellevue.csv,ch_coordinates_y,Y coordinates of bin (CH coordinates),nine digit integer
+rtbl_fs22_wast_composition_bellevue.csv,type,bin type,Abfallhai/Recyclingstation
+rtbl_fs22_wast_composition_bellevue.csv,weight_total,waste bag total weight (kg),kg
+rtbl_fs22_wast_composition_bellevue.csv,weight_paper,weight of paper waste,kg
+rtbl_fs22_wast_composition_bellevue.csv,weight_pet,weight of pet waste,kg
+rtbl_fs22_wast_composition_bellevue.csv,weight_metals,weight of metal waste,kg
+rtbl_fs22_wast_composition_bellevue.csv,weight_glass,weight of glass waste,kg
+rtbl_fs22_wast_composition_bellevue.csv,weight_others,weight of other waste,kg
+rtbl_fs22_wast_composition_bellevue.csv,comment,comment,text

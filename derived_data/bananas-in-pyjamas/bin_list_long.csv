@@ -1,0 +1,16 @@
+bag;objid;gefaess_id;recycling_station;tram_station;frequency;distance_categorie;distance_to_walk
+1;3920;6440;Seebahnstrasse;Lochergut;Once;1;14.54
+2;1819;2136;Seebahnstrasse;Lochergut;Once;2;67.79
+3;1820;2137;Seebahnstrasse;Lochergut;Once;2;80.67
+4;3578;5281;Seebahnstrasse;Lochergut;Once;3;106.22
+5;1909;2262;Seebahnstrasse;Lochergut;Once;3;97.62
+6;1867;5355;Seebahnstrasse;Lochergut;Once;4;185.91
+7;1911;2264;Seebahnstrasse;Lochergut;Once;4;187.29
+14;2073;2332;Fellenbergstrasse;Fellenbergstrasse;Once;1;14.53
+15;3991;5524;Fellenbergstrasse;Fellenbergstrasse;Once;1;13.15
+16;2078;2337;Fellenbergstrasse;Fellenbergstrasse;Once;2;89.92
+17;3992;5525;Fellenbergstrasse;Fellenbergstrasse;Once;2;99.31
+18;2001;2288;Fellenbergstrasse;Fellenbergstrasse;Once;3;185.88
+19;2002;2289;Fellenbergstrasse;Fellenbergstrasse;Once;3;183.59
+20;2095;2354;Fellenbergstrasse;Fellenbergstrasse;Once;4;254.62
+21;3850;6321;Fellenbergstrasse;Fellenbergstrasse;Once;4;256.72

@@ -1,0 +1,50 @@
+fileName,variableName,description,unitText
+survey-data-tidy.csv,date,date question were asked,date
+survey-data-tidy.csv,id,bin id,integer
+survey-data-tidy.csv,live_in_zh,question: Do you live in Zurich?,text
+survey-data-tidy.csv,work_in_zh,question: Do you work in Zurich?,text
+survey-data-tidy.csv,age,question: How old are you?,text
+survey-data-tidy.csv,recycling_bin_type,question: What kind of recycling bins are here at Bellevue?,text
+survey-data-tidy.csv,recycling_bin_type_cat,question: was the response by recycling_bin_type correct,text
+survey-data-tidy.csv,look_at_bin,question: Did they have to peak at the bins to answer the previous question?,text
+survey-data-tidy.csv,symbol_undderstandable,question: Do you find the recycling bin symbols in Zurich easy to understand?,text
+survey-data-tidy.csv,recyclable_in_bin_close,question: How likely is it that you throw the recyclables in a common bin when a recycle bin is close (max. 10m)?,text
+survey-data-tidy.csv,recyclabe_in_bin_far,question: How likely is it that you throw the recyclables in a common bin when there is no recycle bin in the vicinity (more than 10m away)?,text
+survey-data-tidy.csv,willingness_recycling,question: How far would you be willing to go to put trash in the correct bin. (i.e recyclables in the corresponding recycle bin),number
+survey-data-tidy.csv,smoker_throw_cig,question: Where do you think most smokers throw away their cigarettes?,text
+survey-data-tidy.csv,smoker,question: Do you smoke?,text
+survey-data-tidy.csv,cigarette_on_floor_far,question: How likely is it that you throw your cigarette on the floor when no cigarette disposal bin is available?,text
+survey-data-tidy.csv,cigarette_on_floor_close,question: How likely is it that you throw your cigarette in the bin/cigarette disposal when standing near to a bin (max 10m)?,text
+survey-data-tidy.csv,satisfaction_disposal_possibility,question: How satisfied are you with the waste disposal possibility in Bellevue?,text
+survey-data-tidy.csv,number_bin,question: How many waste disposal bins do you think there are at the Bellevue tram station?,number
+waste-characterisation-data-bellevue-Recyclingstations-sub-bins-tidy.csv,number,bin id,integer 
+waste-characterisation-data-bellevue-Recyclingstations-sub-bins-tidy.csv,identifier,object text identifier,text
+waste-characterisation-data-bellevue-Recyclingstations-sub-bins-tidy.csv,location,location of bin,text
+waste-characterisation-data-bellevue-Recyclingstations-sub-bins-tidy.csv,ch_coordinates_x,X coordinates of bin (CH coordinates),nine digit integer
+waste-characterisation-data-bellevue-Recyclingstations-sub-bins-tidy.csv,ch_coordinates_y,Y coordinates of bin (CH coordinates),nine digit integer
+waste-characterisation-data-bellevue-Recyclingstations-sub-bins-tidy.csv,type,bin type,text
+waste-characterisation-data-bellevue-Recyclingstations-sub-bins-tidy.csv,comment,comment,text
+waste-characterisation-data-bellevue-Recyclingstations-sub-bins-tidy.csv,sub_bin_type,type of recycle bin,text
+waste-characterisation-data-bellevue-Recyclingstations-sub-bins-tidy.csv,weight,weight of the waste content in the bin,kg
+waste-characterisation-data-bellevue-tidy.csv,number,bin id,integer 
+waste-characterisation-data-bellevue-tidy.csv,identifier,object text identifier,text
+waste-characterisation-data-bellevue-tidy.csv,location,location of bin,text
+waste-characterisation-data-bellevue-tidy.csv,ch_coordinates_x,X coordinates of bin (CH coordinates),nine digit integer
+waste-characterisation-data-bellevue-tidy.csv,ch_coordinates_y,Y coordinates of bin (CH coordinates),nine digit integer
+waste-characterisation-data-bellevue-tidy.csv,type,bin type,text
+waste-characterisation-data-bellevue-tidy.csv,comment,comment,text
+waste-characterisation-data-bellevue-tidy.csv,category,type of waste inside the common bin,text
+waste-characterisation-data-bellevue-tidy.csv,weight,weight of the waste content in the bin,kg
+waste-characterisation-data-cigarettes-tidy.csv,number,bin id,integer
+waste-characterisation-data-cigarettes-tidy.csv,identifier,object text identifier,text
+waste-characterisation-data-cigarettes-tidy.csv,location,location of bin,text
+waste-characterisation-data-cigarettes-tidy.csv,ch_coordinates_x,X coordinates of bin (CH coordinates),nine digit integer
+waste-characterisation-data-cigarettes-tidy.csv,ch_coordinates_y,Y coordinates of bin (CH coordinates),nine digit integer
+waste-characterisation-data-cigarettes-tidy.csv,bin_type,bin type,text
+waste-characterisation-data-cigarettes-tidy.csv,cigaret_number,number of cigarets contained in the bin,integer
+waste-characterisation-data-cigarettes-tidy.csv,comment,comment,text
+
+
+
+
+

@@ -1,0 +1,28 @@
+id,compost_separation_frequency,compost_disposal,factors_discouraging,factors_encouraging
+1,never,Regular trash (Zürisack),"Cumbersome in practice,Lack of awareness,Difficult to organize",Additional bins at recycling stations
+2,never,Regular trash (Zürisack),"Cost,Cumbersome in practice,Difficult to organize",Additional bins at recycling stations
+3,very often,Own green bin (1 household),"Cost,Difficult to organize",Additional bins at recycling stations
+4,always,Shared green bin (with neighbors),"No place to store,Smell",No cost
+5,I don't produce organic waste,Eigener in wg aber nur für sich,Zu faul,Additional bins at recycling stations
+6,always,Shared green bin (with neighbors),"Smell,Cumbersome in practice","More awareness, advertising,Regulations"
+7,very often,Shared green bin (with neighbors),"Gemütlichkeit,Smell,Difficult to organize","More awareness, advertising,I don't know"
+8,never,Regular trash (Zürisack),Smell,No cost
+9,rarely,Shared green bin (with neighbors),Zeit plus geht vergessen,"Säcklein schwirig zu finden,No cost"
+10,never,Regular trash (Zürisack),Cost,Regulations
+11,never,Regular trash (Zürisack),"Platz,Smell",Additional bins at recycling stations
+12,never,Regular trash (Zürisack),I don't know,Regulations
+13,sometimes,Shared green bin (with neighbors),"Disgusting plastic bags,Smell,Cumbersome in practice","Regulations,Additional bins at recycling stations"
+14,never,Regular trash (Zürisack),Smell,Regulations
+15,never,Regular trash (Zürisack),"Cost,Difficult to organize","Regulations - vermieter müssen eine zur verfügung stellen,No cost,Regulations"
+16,always,Farm,"Cumbersome in practice,I don't know",I don't know
+17,never,Regular trash (Zürisack),Zu wenig,Additional bins at recycling stations
+18,sometimes,Regular trash (Zürisack),"Smell,Cumbersome in practice,Lack of awareness",Additional bins at recycling stations
+19,never,Regular trash (Zürisack),I don't know,I don't know
+20,never,Regular trash (Zürisack),"Lack of space,Smell",Additional bins at recycling stations
+21,very often,Shared green bin (with neighbors),Difficult to organize,Additional bins at recycling stations
+22,always,Own green bin (1 household),"Cumbersome in practice,Lack of awareness,Impossible for renters","Incentive, gain"
+23,very often,Shared green bin (with neighbors),I don't know,"More awareness, advertising"
+24,always,Own green bin (1 household),Smell,"More awareness, advertising"
+25,always,Shared green bin (with neighbors),"No place to trash,Lack of awareness","Reduced cost,More awareness, advertising,Additional bins at recycling stations"
+26,always,Shared green bin (with neighbors),"Smell,Cumbersome in practice","Biosacs distribution,Additional bins at recycling stations"
+27,never,Regular trash (Zürisack),Smell,Besserer Behälter geruchsfrei

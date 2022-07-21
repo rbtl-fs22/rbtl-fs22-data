@@ -1,0 +1,12 @@
+id,date,age,gender,zh_citizen,recycling_recognition,recycling_orientation,search_location,self_filled
+1,2022-04-19,23,woman,Yes,Yes,Yes,Unlikely,No
+2,2022-04-19,35,man,Yes,Yes,Yes,Very Likely,No
+3,2022-04-19,58,man,Yes,Yes,Yes,Very Likely,No
+4,2022-04-19,47,woman,Yes,Yes,Yes,Likely,Yes
+5,2022-04-19,21,man,Yes,Yes,Yes,Likely,No
+6,2022-04-19,44,woman,Yes,Yes,Yes,Unlikely,No
+7,2022-04-19,25,man,Yes,Yes,Yes,Unlikely,No
+8,2022-04-19,39,woman,Yes,Yes,Yes,Very Unlikely,No
+9,2022-04-19,24,man,No,Yes,Yes,Unlikely,Yes
+10,2022-04-20,33,man,Yes,Yes,Yes,NA,NA
+11,2022-05-02,18,man,Yes,Yes,No,Very Likely,Yes

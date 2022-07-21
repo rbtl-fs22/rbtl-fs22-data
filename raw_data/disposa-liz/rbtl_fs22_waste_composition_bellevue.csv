@@ -1,0 +1,10 @@
+﻿number;identifier;location;ch_coordinates_x;ch_coordinates_y;type;weight_total;weight_paper;weight_pet;weight_metals;weight_glass;weight_others;comment
+1;Raemistrasse;Bellevueplatz;2683542;1246852;Recyclingstation;2.4;0.6;0;0.1;0.4;1.4;2nd cigarette stand 5 Meters to the North
+2;Bellevueplatz_North;Bellevueplatz;2683577;1246849;Recyclingstation;6.2;0.3;0;0.011;1.3;3.6;
+3;Bellevueplatz_West;Bellevueplatz;2683550;1246832;Recyclingstation;2.4;0.5;0.047;0.039;0.302;1.3;
+4;Bellevueplatz_East;Bellevueplatz;2683594;1246824;Recyclingstation;4.6;0.6;0;0.013;1.9;2.2;
+5;Theaterstrasse_West;Bellevueplatz;2683612;1246831;Recyclingstation;0;0;0;0;0;0;apparently empty
+6;Bellevueplatz_South;Bellevueplatz;2683558;1246816;Recyclingstation;2.8;0.4;0.028;0.039;0.642;1.4;
+7;Schoeckstrasse;nA;2683583;1246793;Recyclingstation;1.2;0.9;0.019;0;0;0.148;
+8;Theaterstrasse;Theaterstrasse / St. Urbangasse;2683631;1246824;Abfallhai;2.1;0.7;0.106;0.09;0;1.1;
+9;Theaterstrasse_East;Theaterstrasse 14;2683646;1246805;Abfallhai;1.7;0.257;0;0.029;0;1.1;

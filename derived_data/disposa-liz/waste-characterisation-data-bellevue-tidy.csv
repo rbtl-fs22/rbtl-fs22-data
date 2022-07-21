@@ -1,0 +1,46 @@
+number,identifier,location,ch_coordinates_x,ch_coordinates_y,type,comment,category,weight
+1,Raemistrasse,Bellevueplatz,2683542,1246852,Recyclingstation,2nd cigarette stand 5 Meters to the North,paper,0.6
+1,Raemistrasse,Bellevueplatz,2683542,1246852,Recyclingstation,2nd cigarette stand 5 Meters to the North,pet,0
+1,Raemistrasse,Bellevueplatz,2683542,1246852,Recyclingstation,2nd cigarette stand 5 Meters to the North,metals,0.1
+1,Raemistrasse,Bellevueplatz,2683542,1246852,Recyclingstation,2nd cigarette stand 5 Meters to the North,glass,0.4
+1,Raemistrasse,Bellevueplatz,2683542,1246852,Recyclingstation,2nd cigarette stand 5 Meters to the North,others,1.4
+2,Bellevueplatz_North,Bellevueplatz,2683577,1246849,Recyclingstation,NA,paper,0.3
+2,Bellevueplatz_North,Bellevueplatz,2683577,1246849,Recyclingstation,NA,pet,0
+2,Bellevueplatz_North,Bellevueplatz,2683577,1246849,Recyclingstation,NA,metals,0.011
+2,Bellevueplatz_North,Bellevueplatz,2683577,1246849,Recyclingstation,NA,glass,1.3
+2,Bellevueplatz_North,Bellevueplatz,2683577,1246849,Recyclingstation,NA,others,3.6
+3,Bellevueplatz_West,Bellevueplatz,2683550,1246832,Recyclingstation,NA,paper,0.5
+3,Bellevueplatz_West,Bellevueplatz,2683550,1246832,Recyclingstation,NA,pet,0.047
+3,Bellevueplatz_West,Bellevueplatz,2683550,1246832,Recyclingstation,NA,metals,0.039
+3,Bellevueplatz_West,Bellevueplatz,2683550,1246832,Recyclingstation,NA,glass,0.302
+3,Bellevueplatz_West,Bellevueplatz,2683550,1246832,Recyclingstation,NA,others,1.3
+4,Bellevueplatz_East,Bellevueplatz,2683594,1246824,Recyclingstation,NA,paper,0.6
+4,Bellevueplatz_East,Bellevueplatz,2683594,1246824,Recyclingstation,NA,pet,0
+4,Bellevueplatz_East,Bellevueplatz,2683594,1246824,Recyclingstation,NA,metals,0.013
+4,Bellevueplatz_East,Bellevueplatz,2683594,1246824,Recyclingstation,NA,glass,1.9
+4,Bellevueplatz_East,Bellevueplatz,2683594,1246824,Recyclingstation,NA,others,2.2
+5,Theaterstrasse_West,Bellevueplatz,2683612,1246831,Recyclingstation,apparently empty,paper,0
+5,Theaterstrasse_West,Bellevueplatz,2683612,1246831,Recyclingstation,apparently empty,pet,0
+5,Theaterstrasse_West,Bellevueplatz,2683612,1246831,Recyclingstation,apparently empty,metals,0
+5,Theaterstrasse_West,Bellevueplatz,2683612,1246831,Recyclingstation,apparently empty,glass,0
+5,Theaterstrasse_West,Bellevueplatz,2683612,1246831,Recyclingstation,apparently empty,others,0
+6,Bellevueplatz_South,Bellevueplatz,2683558,1246816,Recyclingstation,NA,paper,0.4
+6,Bellevueplatz_South,Bellevueplatz,2683558,1246816,Recyclingstation,NA,pet,0.028
+6,Bellevueplatz_South,Bellevueplatz,2683558,1246816,Recyclingstation,NA,metals,0.039
+6,Bellevueplatz_South,Bellevueplatz,2683558,1246816,Recyclingstation,NA,glass,0.642
+6,Bellevueplatz_South,Bellevueplatz,2683558,1246816,Recyclingstation,NA,others,1.4
+7,Schoeckstrasse,nA,2683583,1246793,Recyclingstation,NA,paper,0.9
+7,Schoeckstrasse,nA,2683583,1246793,Recyclingstation,NA,pet,0.019
+7,Schoeckstrasse,nA,2683583,1246793,Recyclingstation,NA,metals,0
+7,Schoeckstrasse,nA,2683583,1246793,Recyclingstation,NA,glass,0
+7,Schoeckstrasse,nA,2683583,1246793,Recyclingstation,NA,others,0.148
+8,Theaterstrasse,Theaterstrasse / St. Urbangasse,2683631,1246824,Abfallhai,NA,paper,0.7
+8,Theaterstrasse,Theaterstrasse / St. Urbangasse,2683631,1246824,Abfallhai,NA,pet,0.106
+8,Theaterstrasse,Theaterstrasse / St. Urbangasse,2683631,1246824,Abfallhai,NA,metals,0.09
+8,Theaterstrasse,Theaterstrasse / St. Urbangasse,2683631,1246824,Abfallhai,NA,glass,0
+8,Theaterstrasse,Theaterstrasse / St. Urbangasse,2683631,1246824,Abfallhai,NA,others,1.1
+9,Theaterstrasse_East,Theaterstrasse 14,2683646,1246805,Abfallhai,NA,paper,0.257
+9,Theaterstrasse_East,Theaterstrasse 14,2683646,1246805,Abfallhai,NA,pet,0
+9,Theaterstrasse_East,Theaterstrasse 14,2683646,1246805,Abfallhai,NA,metals,0.029
+9,Theaterstrasse_East,Theaterstrasse 14,2683646,1246805,Abfallhai,NA,glass,0
+9,Theaterstrasse_East,Theaterstrasse 14,2683646,1246805,Abfallhai,NA,others,1.1

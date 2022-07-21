@@ -1,0 +1,26 @@
+﻿fileName,variableName,description,unitText,variableType
+survey-data-tidy-long.csv & survey-data-tidy.csv,id,Number of question,NA,numeric
+survey-data-tidy-long.csv & survey-data-tidy.csv,date_started,Date at which the survey was conducted ,NA,numeric/date
+survey-data-tidy-long.csv & survey-data-tidy.csv,age,Question: What age group are you in? Answer: Number Range,NA,numeric
+survey-data-tidy-long.csv & survey-data-tidy.csv,job,Question: What is your occupation? Answer: Choice (Text),NA,text
+survey-data-tidy-long.csv & survey-data-tidy.csv,residence_situation,Question: What is your current residence situation? Answer: Choice (Text),NA,text
+survey-data-tidy-long.csv & survey-data-tidy.csv,residence_type,Questions: What type of residence do you live in? Answer: Choice (Text),NA,text
+survey-data-tidy-long.csv & survey-data-tidy.csv,location_bin,Questions: Do you know where a recycling bin in Oerlikon station is? Answer: Yes/No,NA,text
+survey-data-tidy-long.csv & survey-data-tidy.csv,number_recycling,Questions: On a scale from 1 to 5 (5 is the best) how sufficient do you think the number of recycling bins in Oerlikon is? Answer: Number,NA,numeric
+survey-data-tidy-long.csv & survey-data-tidy.csv,deposit,Question: Would a 1 CHF deposit on glass bottles and cans make you more likely to recycle? Answer: Yes/No,NA,text
+survey-data-tidy-long.csv & survey-data-tidy.csv,residence_distance,"Question: On a scale from 1 to 5 (5 is the best), how comfortable are you with the distance of the next neighbourhood recycling station (glass/alu) from your residence? Answer: Number",NA,numeric
+survey-data-tidy-long.csv & survey-data-tidy.csv,zurisack,"Question: On a scale from 1 to 5, how comfortable are you with the price of Zürisäcke? Answer: Number",NA,numeric
+survey-data-tidy.csv,price_pet,Question: What monthly subscription would you be willing to pay for a PET bin outside your home? Answer: Number,CHF,numeric
+survey-data-tidy.csv,price_paper,Question: What monthly subscription would you be willing to pay for a paper/carton bin outside your home? Answer: Number,CHF,numeric
+survey-data-tidy.csv,price_glass,Question: What monthly subscription would you be willing to pay for a metal/glass bin outside your home? Answer: Number,CHF,numeric
+survey-data-tidy-long.csv,price_question,"defines which question it is from price_pet, price_paper and price_glass",NA,text
+survey-data-tidy-long.csv,price_value,defines the value of price_question,CHF,numeric
+survey-data-tidy-long.csv & survey-data-tidy.csv,comment,Question: Please give any suggestions on how to improve recycling in Zurich? Answer: Text,NA,text
+survey-data-tidy-long.csv & survey-data-tidy.csv,feedback,"Question: Please, can you give us a short feedback about this survey? Answer: Text",NA,text
+waste-characterisation-data-tidy.csv,obj_id,ERZ identification number for the waste bin,NA,text and numeric
+waste-characterisation-data-tidy.csv,bin_id,"name given by us, which is unique for each location ",NA,text and numeric
+waste-characterisation-data-tidy.csv,party_location,whether or not the bin is at a station in a high traffic area for late night partying,NA,text
+waste-characterisation-data-tidy.csv,day_of_collection,on which day it was collected ,NA,numeric/date
+waste-characterisation-data-tidy.csv,area_id,define the area in which the trash was collected,NA,text
+waste-characterisation-data-tidy.csv,category,define which waste category it is,NA,text
+waste-characterisation-data-tidy.csv,weight,define the weight of each category in kg ,kg,numeric

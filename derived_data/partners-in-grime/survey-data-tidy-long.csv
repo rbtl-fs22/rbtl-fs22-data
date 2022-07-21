@@ -1,0 +1,82 @@
+id,date_started,age,job,residence_situation,residence_type,location_bin,number_recycling,deposit,residence_distance,zurisack,comment,feedback,price_question,price_value
+1,2022-04-14,15-24,Student,Parents,Standalone House,No,prefer not to say,Yes,Dissatisfied,prefer not to say,more recycling bins,NA,price_pet,0
+1,2022-04-14,15-24,Student,Parents,Standalone House,No,prefer not to say,Yes,Dissatisfied,prefer not to say,more recycling bins,NA,price_paper,0
+1,2022-04-14,15-24,Student,Parents,Standalone House,No,prefer not to say,Yes,Dissatisfied,prefer not to say,more recycling bins,NA,price_glass,0
+2,2022-04-14,65+,Retired,Single Studio,Apartment,Yes,Good,No,Very satisfied,Satisfied,"GREEN RECYCLING. SHOULD BE CLEARER IT IS ONLY FOR GREEN,NOT TRASH",WHAT IS THE SURVEY FOR?,price_pet,0
+2,2022-04-14,65+,Retired,Single Studio,Apartment,Yes,Good,No,Very satisfied,Satisfied,"GREEN RECYCLING. SHOULD BE CLEARER IT IS ONLY FOR GREEN,NOT TRASH",WHAT IS THE SURVEY FOR?,price_paper,0
+2,2022-04-14,65+,Retired,Single Studio,Apartment,Yes,Good,No,Very satisfied,Satisfied,"GREEN RECYCLING. SHOULD BE CLEARER IT IS ONLY FOR GREEN,NOT TRASH",WHAT IS THE SURVEY FOR?,price_glass,0
+3,2022-04-14,25-64,Other,Single Studio,Townhouse,Yes,Neutral,No,Very satisfied,Very satisfied,Nothing to change,Nothing,price_pet,0
+3,2022-04-14,25-64,Other,Single Studio,Townhouse,Yes,Neutral,No,Very satisfied,Very satisfied,Nothing to change,Nothing,price_paper,0
+3,2022-04-14,25-64,Other,Single Studio,Townhouse,Yes,Neutral,No,Very satisfied,Very satisfied,Nothing to change,Nothing,price_glass,0
+4,2022-04-14,25-64,Employed,Single Studio,Standalone House,No,Excellent,Yes,Satisfied,Neither,more bins / signs / stations,NA,price_pet,7.5
+4,2022-04-14,25-64,Employed,Single Studio,Standalone House,No,Excellent,Yes,Satisfied,Neither,more bins / signs / stations,NA,price_paper,7.5
+4,2022-04-14,25-64,Employed,Single Studio,Standalone House,No,Excellent,Yes,Satisfied,Neither,more bins / signs / stations,NA,price_glass,10
+5,2022-04-14,25-64,Employed,Shared Apartment,Apartment,Yes,Neutral,Yes,Satisfied,Dissatisfied,"More public, more bins, not only at the train station, deposit on bottles (pfand) also for homeless people",20 chef per month,price_pet,10
+5,2022-04-14,25-64,Employed,Shared Apartment,Apartment,Yes,Neutral,Yes,Satisfied,Dissatisfied,"More public, more bins, not only at the train station, deposit on bottles (pfand) also for homeless people",20 chef per month,price_paper,10
+5,2022-04-14,25-64,Employed,Shared Apartment,Apartment,Yes,Neutral,Yes,Satisfied,Dissatisfied,"More public, more bins, not only at the train station, deposit on bottles (pfand) also for homeless people",20 chef per month,price_glass,NA
+6,2022-04-14,15-24,Student,Parents;Shared Apartment,Apartment,No,Fair,No,Neither,Satisfied,more glass recycling,no,price_pet,7.5
+6,2022-04-14,15-24,Student,Parents;Shared Apartment,Apartment,No,Fair,No,Neither,Satisfied,more glass recycling,no,price_paper,0
+6,2022-04-14,15-24,Student,Parents;Shared Apartment,Apartment,No,Fair,No,Neither,Satisfied,more glass recycling,no,price_glass,7.5
+7,2022-04-14,15-24,Student,Parents,Apartment,Yes,Good,Yes,Very satisfied,Dissatisfied,More green bins organic/bio waste,Tetrapak kann man nicht recycling,price_pet,0
+7,2022-04-14,15-24,Student,Parents,Apartment,Yes,Good,Yes,Very satisfied,Dissatisfied,More green bins organic/bio waste,Tetrapak kann man nicht recycling,price_paper,0
+7,2022-04-14,15-24,Student,Parents,Apartment,Yes,Good,Yes,Very satisfied,Dissatisfied,More green bins organic/bio waste,Tetrapak kann man nicht recycling,price_glass,0
+8,2022-04-14,65+,Retired,prefer not to say,Apartment,No,Neutral,Yes,Neither,Neither,no,he didn't understand the questions,price_pet,0
+8,2022-04-14,65+,Retired,prefer not to say,Apartment,No,Neutral,Yes,Neither,Neither,no,he didn't understand the questions,price_paper,0
+8,2022-04-14,65+,Retired,prefer not to say,Apartment,No,Neutral,Yes,Neither,Neither,no,he didn't understand the questions,price_glass,0
+9,2022-04-14,Under 15,Student,Parents,Apartment,No,Neutral,Yes,Satisfied,prefer not to say,More recycling containers,No. Lin.,price_pet,10
+9,2022-04-14,Under 15,Student,Parents,Apartment,No,Neutral,Yes,Satisfied,prefer not to say,More recycling containers,No. Lin.,price_paper,10
+9,2022-04-14,Under 15,Student,Parents,Apartment,No,Neutral,Yes,Satisfied,prefer not to say,More recycling containers,No. Lin.,price_glass,10
+10,2022-04-14,25-64,Employed,Shared Apartment,Apartment,Yes,Good,Yes,Dissatisfied,Neither,None,No,price_pet,0
+10,2022-04-14,25-64,Employed,Shared Apartment,Apartment,Yes,Good,Yes,Dissatisfied,Neither,None,No,price_paper,0
+10,2022-04-14,25-64,Employed,Shared Apartment,Apartment,Yes,Good,Yes,Dissatisfied,Neither,None,No,price_glass,0
+11,2022-04-14,15-24,Employed,Shared Apartment,Apartment,Yes,Good,Yes,Satisfied,Neither,None,No,price_pet,0
+11,2022-04-14,15-24,Employed,Shared Apartment,Apartment,Yes,Good,Yes,Satisfied,Neither,None,No,price_paper,0
+11,2022-04-14,15-24,Employed,Shared Apartment,Apartment,Yes,Good,Yes,Satisfied,Neither,None,No,price_glass,20
+12,2022-04-14,Under 15,Student,Parents,Apartment,No,Neutral,Yes,Very satisfied,prefer not to say,More recycling bins,No dbi,price_pet,10
+12,2022-04-14,Under 15,Student,Parents,Apartment,No,Neutral,Yes,Very satisfied,prefer not to say,More recycling bins,No dbi,price_paper,10
+12,2022-04-14,Under 15,Student,Parents,Apartment,No,Neutral,Yes,Very satisfied,prefer not to say,More recycling bins,No dbi,price_glass,10
+13,2022-04-14,Under 15,Student,Parents,Standalone House,No,Fair,Yes,Very dissatisfied,prefer not to say,No electric cars nachhaltige Energie more bins like train station,No dbi,price_pet,10
+13,2022-04-14,Under 15,Student,Parents,Standalone House,No,Fair,Yes,Very dissatisfied,prefer not to say,No electric cars nachhaltige Energie more bins like train station,No dbi,price_paper,0
+13,2022-04-14,Under 15,Student,Parents,Standalone House,No,Fair,Yes,Very dissatisfied,prefer not to say,No electric cars nachhaltige Energie more bins like train station,No dbi,price_glass,10
+14,2022-04-14,25-64,Employed,Family,Apartment,No,prefer not to say,No,Very satisfied,prefer not to say,get money for the recycling (like a deposit),no,price_pet,0
+14,2022-04-14,25-64,Employed,Family,Apartment,No,prefer not to say,No,Very satisfied,prefer not to say,get money for the recycling (like a deposit),no,price_paper,5
+14,2022-04-14,25-64,Employed,Family,Apartment,No,prefer not to say,No,Very satisfied,prefer not to say,get money for the recycling (like a deposit),no,price_glass,0
+15,2022-04-14,Under 15,Student,Parents,Apartment,Yes,Neutral,Yes,Neither,Neither,More recycling container that have all types of recycling like the train station,Lin,price_pet,10
+15,2022-04-14,Under 15,Student,Parents,Apartment,Yes,Neutral,Yes,Neither,Neither,More recycling container that have all types of recycling like the train station,Lin,price_paper,0
+15,2022-04-14,Under 15,Student,Parents,Apartment,Yes,Neutral,Yes,Neither,Neither,More recycling container that have all types of recycling like the train station,Lin,price_glass,10
+16,2022-04-14,Under 15,Student,Parents,Apartment,Yes,Neutral,Yes,Very satisfied,Very satisfied,More bins like the train station,Too much trash at public places and too many bottles under benches,price_pet,0
+16,2022-04-14,Under 15,Student,Parents,Apartment,Yes,Neutral,Yes,Very satisfied,Very satisfied,More bins like the train station,Too much trash at public places and too many bottles under benches,price_paper,10
+16,2022-04-14,Under 15,Student,Parents,Apartment,Yes,Neutral,Yes,Very satisfied,Very satisfied,More bins like the train station,Too much trash at public places and too many bottles under benches,price_glass,0
+17,2022-04-14,25-64,Employed,Shared Apartment,Townhouse,No,Poor,Yes,Very satisfied,Dissatisfied,NA,NA,price_pet,0
+17,2022-04-14,25-64,Employed,Shared Apartment,Townhouse,No,Poor,Yes,Very satisfied,Dissatisfied,NA,NA,price_paper,0
+17,2022-04-14,25-64,Employed,Shared Apartment,Townhouse,No,Poor,Yes,Very satisfied,Dissatisfied,NA,NA,price_glass,7.5
+18,2022-04-14,25-64,Other,Family,Other,No,Poor,No,Satisfied,Neither,"No, not enough knowledge",No dbi,price_pet,0
+18,2022-04-14,25-64,Other,Family,Other,No,Poor,No,Satisfied,Neither,"No, not enough knowledge",No dbi,price_paper,0
+18,2022-04-14,25-64,Other,Family,Other,No,Poor,No,Satisfied,Neither,"No, not enough knowledge",No dbi,price_glass,0
+19,2022-04-14,Under 15,Student,Parents,Apartment,Yes,Neutral,Yes,Very satisfied,Very satisfied,Train station type recycling container,"Too much trash on ground. Too many bottles under benches. 
+
+Lin",price_pet,50
+19,2022-04-14,Under 15,Student,Parents,Apartment,Yes,Neutral,Yes,Very satisfied,Very satisfied,Train station type recycling container,"Too much trash on ground. Too many bottles under benches. 
+
+Lin",price_paper,20
+19,2022-04-14,Under 15,Student,Parents,Apartment,Yes,Neutral,Yes,Very satisfied,Very satisfied,Train station type recycling container,"Too much trash on ground. Too many bottles under benches. 
+
+Lin",price_glass,0
+20,2022-04-14,25-64,Employed,Others,Apartment,No,Neutral,Yes,Neither,Very satisfied,More possibilities at your home and in the city. More bins like at train stations,No dbi,price_pet,10
+20,2022-04-14,25-64,Employed,Others,Apartment,No,Neutral,Yes,Neither,Very satisfied,More possibilities at your home and in the city. More bins like at train stations,No dbi,price_paper,5
+20,2022-04-14,25-64,Employed,Others,Apartment,No,Neutral,Yes,Neither,Very satisfied,More possibilities at your home and in the city. More bins like at train stations,No dbi,price_glass,10
+21,2022-04-14,25-64,Employed,Shared Apartment,Apartment,Yes,Good,No,Satisfied,Neither,No paper and carton packaging. Just get a bin,No. Lin,price_pet,0
+21,2022-04-14,25-64,Employed,Shared Apartment,Apartment,Yes,Good,No,Satisfied,Neither,No paper and carton packaging. Just get a bin,No. Lin,price_paper,15
+21,2022-04-14,25-64,Employed,Shared Apartment,Apartment,Yes,Good,No,Satisfied,Neither,No paper and carton packaging. Just get a bin,No. Lin,price_glass,0
+22,2022-04-14,25-64,Employed,Family,Apartment,No,Neutral,No,Very satisfied,Dissatisfied,"more recxcling bins
+more paper bins
+recycle tretra
+things not reclyble in normal places anny",NA,price_pet,0
+22,2022-04-14,25-64,Employed,Family,Apartment,No,Neutral,No,Very satisfied,Dissatisfied,"more recxcling bins
+more paper bins
+recycle tretra
+things not reclyble in normal places anny",NA,price_paper,0
+22,2022-04-14,25-64,Employed,Family,Apartment,No,Neutral,No,Very satisfied,Dissatisfied,"more recxcling bins
+more paper bins
+recycle tretra
+things not reclyble in normal places anny",NA,price_glass,5

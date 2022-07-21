@@ -1,0 +1,12 @@
+date,id,live_in_zh,work_in_zh,age,recycling_bin_type,recycling_bin_type_cat,look_at_bin,symbol_understandable,recyclable_in_bin_close,recyclable_in_bin_far,willingness_recycling,smoker_throw_cig,smoker,cigarette_on_floor_far,cigarette_on_floor_close,satisfaction_disposal_possibility,number_bin
+2022-04-28,1,No,No,28,"Bio, common",partially correct,No,Yes,Strongly unlikely,Strongly unlikely,10,On the floor,Daily,Likely,Strongly likely,Satisfied,50
+2022-04-28,2,Yes,Studying,17,"PET, paper, cans, glass, common",partially correct,Yes,Yes,Strongly unlikely,Strongly unlikely,100,In the bin,Never,Not relevant,Not relevant,Strongly unsatisfied,6
+2022-04-28,3,No,Retired,77,"PET, paper, cigerette, common",partially correct,Yes,Yes,Strongly unlikely,Likely,3000,On the floor,Never,Not relevant,Not relevant,Strongly unsatisfied,10
+2022-04-28,4,Yes,Yes,29,Don't know,don't know,Not applicable,Yes,Strongly unlikely,Likely,10,On the floor,Never,Not relevant,Not relevant,Neutral,7
+2022-04-28,5,No,Sometimes,53,Don't know,don't know,Not applicable,Yes,Neutral,Strongly likely,300,On the floor,Never,Not relevant,Not relevant,Satisfied,6
+2022-04-28,6,Yes,Yes,61,"Alu, PET, Normal",partially correct,Yes,Yes,Neutral,Likely,1000,Don't want to answer,Never,Not relevant,Not relevant,Neutral,5
+2022-04-28,7,Yes,Study,20,"PET, Alu, Papers",correct,Yes,Yes,Unlikely,Unlikely,200,On the floor,Never,Not relevant,Not relevant,Strongly satisfied,7
+2022-04-28,8,Yes,Yes,40,Don't know,don't know,Not applicable,Yes,Strongly likely,Strongly likely,30,On the floor,Never,Not relevant,Not relevant,Satisfied,10
+2022-04-28,9,Yes,Study and work,23,"Paper, compost, PET, Alu",partially correct,No,Yes,Strongly unlikely,Unlikely,20,On the floor,Never,Not relevant,Not relevant,Strongly satisfied,10
+2022-04-28,10,Yes,Yes,43,"Glass, Alu, but no electricals",partially correct,Yes,Yes,Sometimes it is confusing if the bins are right next to each other,Bring home,300,On the floor,Never,Not relevant,Not relevant,Strongly satisfied,10
+2022-04-28,11,Yes,Renter,66,Don't know,don't know,Not applicable,Yes,Likely,Strongly likely,1200,On the floor,Once a week,Very unlikely,Strongly likely,Unsatisfied,3

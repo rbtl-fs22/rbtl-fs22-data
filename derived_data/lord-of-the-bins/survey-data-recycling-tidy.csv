@@ -1,0 +1,325 @@
+id,question,recycling,reason
+1,PET,always,NA
+1,paper,very often,To time consuming
+1,cardboard,always,NA
+1,glas,always,NA
+1,milkcarton,never,I did not know one could recycle it
+1,plasticbottles,always,NA
+1,plasticpackaging,never,I did not know one could recycle it
+1,aluminium,always,NA
+1,steel,always,NA
+1,electronics,never,I keep them because I think I can use them again
+1,batteries,always,NA
+1,coffeecapsules,I do not use/buy,NA
+2,PET,always,NA
+2,paper,sometimes,It is not important to me
+2,cardboard,sometimes,It is not important to me
+2,glas,always,NA
+2,milkcarton,never,I did not know one could recycle it
+2,plasticbottles,always,NA
+2,plasticpackaging,never,I do not know where to bring it
+2,aluminium,always,NA
+2,steel,always,NA
+2,electronics,always,NA
+2,batteries,always,NA
+2,coffeecapsules,I do not use/buy,NA
+3,PET,always,NA
+3,paper,always,NA
+3,cardboard,always,NA
+3,glas,always,NA
+3,milkcarton,always,NA
+3,plasticbottles,very often,To time consuming
+3,plasticpackaging,sometimes,No recycling opportunity near me
+3,aluminium,very often,No recycling opportunity near me
+3,steel,always,NA
+3,electronics,always,NA
+3,batteries,always,NA
+3,coffeecapsules,I do not use/buy,NA
+4,PET,very often,To time consuming
+4,paper,very often,To time consuming
+4,cardboard,always,NA
+4,glas,I do not use/buy,NA
+4,milkcarton,never,I did not know one could recycle it
+4,plasticbottles,I do not use/buy,NA
+4,plasticpackaging,never,I do not know where to bring it
+4,aluminium,very often,No recycling opportunity near me
+4,steel,I do not use/buy,NA
+4,electronics,always,NA
+4,batteries,I do not use/buy,NA
+4,coffeecapsules,I do not use/buy,NA
+5,PET,I do not use/buy,NA
+5,paper,very often,No recycling opportunity near me
+5,cardboard,always,NA
+5,glas,always,NA
+5,milkcarton,never,I did not know one could recycle it
+5,plasticbottles,always,NA
+5,plasticpackaging,never,I did not know one could recycle it
+5,aluminium,always,NA
+5,steel,always,NA
+5,electronics,always,NA
+5,batteries,always,NA
+5,coffeecapsules,I do not use/buy,NA
+6,PET,always,NA
+6,paper,always,NA
+6,cardboard,always,NA
+6,glas,always,NA
+6,milkcarton,never,I did not know one could recycle it
+6,plasticbottles,always,NA
+6,plasticpackaging,never,To time consuming
+6,aluminium,always,NA
+6,steel,always,NA
+6,electronics,always,NA
+6,batteries,always,NA
+6,coffeecapsules,I do not use/buy,NA
+7,PET,I do not use/buy,NA
+7,paper,always,NA
+7,cardboard,always,NA
+7,glas,always,NA
+7,milkcarton,always,NA
+7,plasticbottles,I do not use/buy,NA
+7,plasticpackaging,never,I did not know one could recycle it
+7,aluminium,always,NA
+7,steel,always,NA
+7,electronics,never,I keep them because I think I can use them again
+7,batteries,I do not use/buy,Ligen einfach rum
+7,coffeecapsules,I do not use/buy,NA
+8,PET,always,NA
+8,paper,sometimes,I do not know where to bring it
+8,cardboard,very often,To time consuming
+8,glas,always,NA
+8,milkcarton,never,I did not know one could recycle it
+8,plasticbottles,very often,I do not know where to bring it
+8,plasticpackaging,never,I do not know where to bring it
+8,aluminium,very often,To time consuming
+8,steel,always,NA
+8,electronics,always,NA
+8,batteries,always,NA
+8,coffeecapsules,I do not use/buy,NA
+9,PET,very often,No recycling opportunity near me
+9,paper,always,NA
+9,cardboard,always,NA
+9,glas,always,NA
+9,milkcarton,never,I did not know one could recycle it
+9,plasticbottles,never,I did not know one could recycle it
+9,plasticpackaging,never,I did not know one could recycle it
+9,aluminium,sometimes,No recycling opportunity near me
+9,steel,I do not use/buy,NA
+9,electronics,never,I keep them because I think I can use them again
+9,batteries,I do not use/buy,NA
+9,coffeecapsules,I do not use/buy,NA
+10,PET,always,NA
+10,paper,very often,To time consuming
+10,cardboard,always,NA
+10,glas,always,NA
+10,milkcarton,never,I did not know one could recycle it
+10,plasticbottles,never,I do not know where to bring it
+10,plasticpackaging,never,It is not important to me
+10,aluminium,always,NA
+10,steel,always,NA
+10,electronics,never,I keep them because I think I can use them again
+10,batteries,always,NA
+10,coffeecapsules,never,I did not know one could recycle it
+11,PET,sometimes,No recycling opportunity near me
+11,paper,very often,No recycling opportunity near me
+11,cardboard,always,NA
+11,glas,sometimes,No recycling opportunity near me
+11,milkcarton,never,I did not know one could recycle it
+11,plasticbottles,never,It is not important to me
+11,plasticpackaging,never,To time consuming
+11,aluminium,sometimes,No recycling opportunity near me
+11,steel,always,NA
+11,electronics,never,I keep them because I think I can use them again
+11,batteries,always,NA
+11,coffeecapsules,I do not use/buy,NA
+12,PET,very often,No recycling opportunity near me
+12,paper,very often,No recycling opportunity near me
+12,cardboard,always,NA
+12,glas,very often,No recycling opportunity near me
+12,milkcarton,never,Macht es in Karton
+12,plasticbottles,never,I did not know one could recycle it
+12,plasticpackaging,never,I did not know one could recycle it
+12,aluminium,very often,No recycling opportunity near me
+12,steel,always,NA
+12,electronics,never,I keep them because I think I can use them again
+12,batteries,I do not use/buy,NA
+12,coffeecapsules,I do not use/buy,NA
+13,PET,always,NA
+13,paper,very often,I do not know where to bring it
+13,cardboard,always,NA
+13,glas,very often,No recycling opportunity near me
+13,milkcarton,never,I did not know one could recycle it
+13,plasticbottles,always,NA
+13,plasticpackaging,never,No recycling opportunity near me
+13,aluminium,always,NA
+13,steel,very often,To time consuming
+13,electronics,always,I keep them because I think I can use them again
+13,batteries,never,To time consuming
+13,coffeecapsules,I do not use/buy,NA
+14,PET,very often,No recycling opportunity near me
+14,paper,very often,No recycling opportunity near me
+14,cardboard,always,NA
+14,glas,always,NA
+14,milkcarton,never,I did not know one could recycle it
+14,plasticbottles,always,NA
+14,plasticpackaging,never,I did not know one could recycle it
+14,aluminium,very often,No recycling opportunity near me
+14,steel,always,NA
+14,electronics,I do not use/buy,NA
+14,batteries,always,NA
+14,coffeecapsules,I do not use/buy,NA
+15,PET,always,NA
+15,paper,always,NA
+15,cardboard,very often,No recycling opportunity near me
+15,glas,always,NA
+15,milkcarton,never,I did not know one could recycle it
+15,plasticbottles,sometimes,It is not important to me
+15,plasticpackaging,never,To time consuming
+15,aluminium,always,NA
+15,steel,always,NA
+15,electronics,never,I keep them because I think I can use them again
+15,batteries,always,NA
+15,coffeecapsules,I do not use/buy,NA
+16,PET,very often,To time consuming
+16,paper,always,NA
+16,cardboard,always,NA
+16,glas,always,NA
+16,milkcarton,never,I did not know one could recycle it
+16,plasticbottles,always,NA
+16,plasticpackaging,sometimes,No recycling opportunity near me
+16,aluminium,very often,It is not important to me
+16,steel,always,NA
+16,electronics,always,NA
+16,batteries,always,NA
+16,coffeecapsules,I do not use/buy,NA
+17,PET,always,NA
+17,paper,always,NA
+17,cardboard,always,NA
+17,glas,always,NA
+17,milkcarton,never,Falsch recyclet
+17,plasticbottles,I do not use/buy,NA
+17,plasticpackaging,never,I did not know one could recycle it
+17,aluminium,I do not use/buy,NA
+17,steel,I do not use/buy,NA
+17,electronics,I do not use/buy,NA
+17,batteries,I do not use/buy,NA
+17,coffeecapsules,I do not use/buy,NA
+18,PET,very often,No recycling opportunity near me
+18,paper,very often,It is not important to me
+18,cardboard,always,NA
+18,glas,always,NA
+18,milkcarton,never,I did not know one could recycle it
+18,plasticbottles,always,NA
+18,plasticpackaging,never,I did not know one could recycle it
+18,aluminium,sometimes,It is not important to me
+18,steel,always,NA
+18,electronics,very often,To time consuming
+18,batteries,always,NA
+18,coffeecapsules,I do not use/buy,NA
+19,PET,very often,No recycling opportunity near me
+19,paper,rarely,It is not important to me
+19,cardboard,very often,It is not important to me
+19,glas,never,I do not know where to bring it
+19,milkcarton,never,I did not know one could recycle it
+19,plasticbottles,I do not use/buy,NA
+19,plasticpackaging,never,I did not know one could recycle it
+19,aluminium,I do not use/buy,NA
+19,steel,never,It is not important to me
+19,electronics,I do not use/buy,NA
+19,batteries,I do not use/buy,NA
+19,coffeecapsules,I do not use/buy,NA
+20,PET,rarely,No recycling opportunity near me
+20,paper,always,NA
+20,cardboard,always,NA
+20,glas,always,NA
+20,milkcarton,never,I did not know one could recycle it
+20,plasticbottles,never,No recycling opportunity near me
+20,plasticpackaging,never,I did not know one could recycle it
+20,aluminium,I do not use/buy,NA
+20,steel,always,NA
+20,electronics,always,NA
+20,batteries,always,NA
+20,coffeecapsules,I do not use/buy,NA
+21,PET,very often,No recycling opportunity near me
+21,paper,always,NA
+21,cardboard,always,NA
+21,glas,always,NA
+21,milkcarton,never,I did not know one could recycle it
+21,plasticbottles,always,NA
+21,plasticpackaging,never,No place to store separate items until recycling
+21,aluminium,always,NA
+21,steel,always,NA
+21,electronics,never,I keep them because I think I can use them again
+21,batteries,always,NA
+21,coffeecapsules,I do not use/buy,NA
+22,PET,always,NA
+22,paper,always,NA
+22,cardboard,always,NA
+22,glas,always,NA
+22,milkcarton,never,No recycling opportunity near me
+22,plasticbottles,always,NA
+22,plasticpackaging,never,No recycling opportunity near me
+22,aluminium,very often,It is not important to me
+22,steel,very often,It is not important to me
+22,electronics,I do not use/buy,I keep them because I think I can use them again
+22,batteries,always,NA
+22,coffeecapsules,I do not use/buy,NA
+23,PET,always,NA
+23,paper,sometimes,No recycling opportunity near me
+23,cardboard,very often,No recycling opportunity near me
+23,glas,very often,No recycling opportunity near me
+23,milkcarton,never,I did not know one could recycle it
+23,plasticbottles,never,I do not know where to bring it
+23,plasticpackaging,never,No place to store separate items until recycling
+23,aluminium,very often,No recycling opportunity near me
+23,steel,always,NA
+23,electronics,always,NA
+23,batteries,always,NA
+23,coffeecapsules,I do not use/buy,NA
+24,PET,always,NA
+24,paper,sometimes,It is not important to me
+24,cardboard,always,NA
+24,glas,always,NA
+24,milkcarton,never,No recycling opportunity near me
+24,plasticbottles,always,NA
+24,plasticpackaging,never,I did not know one could recycle it
+24,aluminium,always,NA
+24,steel,always,NA
+24,electronics,always,NA
+24,batteries,always,NA
+24,coffeecapsules,I do not use/buy,NA
+25,PET,always,NA
+25,paper,always,NA
+25,cardboard,very often,Multiple materials
+25,glas,always,NA
+25,milkcarton,sometimes,I do not know where to bring it
+25,plasticbottles,always,NA
+25,plasticpackaging,never,I did not know one could recycle it
+25,aluminium,always,NA
+25,steel,always,NA
+25,electronics,rarely,I keep them because I think I can use them again
+25,batteries,always,NA
+25,coffeecapsules,I do not use/buy,NA
+26,PET,always,NA
+26,paper,very often,Sensitive data
+26,cardboard,very often,It is not important to me
+26,glas,always,NA
+26,milkcarton,never,No recycling opportunity near me
+26,plasticbottles,always,NA
+26,plasticpackaging,never,I did not know one could recycle it
+26,aluminium,very often,I do not think it would make a difference
+26,steel,always,NA
+26,electronics,always,NA
+26,batteries,always,NA
+26,coffeecapsules,very often,No recycling opportunity near me
+27,PET,very often,No recycling opportunity near me
+27,paper,sometimes,To time consuming
+27,cardboard,very often,To time consuming
+27,glas,always,NA
+27,milkcarton,never,No place to store separate items until recycling
+27,plasticbottles,always,NA
+27,plasticpackaging,never,I did not know one could recycle it
+27,aluminium,very often,No recycling opportunity near me
+27,steel,always,NA
+27,electronics,very often,To time consuming
+27,batteries,very often,I do not know where to bring it
+27,coffeecapsules,I do not use/buy,NA

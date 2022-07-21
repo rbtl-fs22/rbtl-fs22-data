@@ -1,0 +1,125 @@
+id,question,category,answer,answer_short
+1,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+1,visible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+1,visible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+1,visible_far,alu,I would walk to the RCP and throw it into the container.,rcp
+1,invisible_close,glass,"Other, please specify below.",other
+1,invisible_close,alu,"Other, please specify below.",other
+1,invisible_close_unknown,glass,I would throw it into the regular bin right next to me.,bin
+1,invisible_close_unknown,alu,I would throw it into the regular bin right next to me.,bin
+1,invisible_far,glass,"Other, please specify below.",other
+1,invisible_far,alu,"Other, please specify below.",other
+1,invisible_far_unknown,glass,I would find out where the next RCP is and decide to throw it into the regular bin.,bin+
+1,invisible_far_unknown,alu,I would find out where the next RCP is and decide to throw it into the regular bin.,bin+
+2,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+2,visible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+2,visible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+2,visible_far,alu,I would walk to the RCP and throw it into the container.,rcp
+2,invisible_close,glass,I would take it with me and dispose it later.,takeaway
+2,invisible_close,alu,I would take it with me and dispose it later.,takeaway
+2,invisible_close_unknown,glass,I would take it with me and dispose it later.,takeaway
+2,invisible_close_unknown,alu,I would take it with me and dispose it later.,takeaway
+2,invisible_far,glass,I would take it with me and dispose it later.,takeaway
+2,invisible_far,alu,I would take it with me and dispose it later.,takeaway
+2,invisible_far_unknown,glass,I would take it with me and dispose it later.,takeaway
+2,invisible_far_unknown,alu,I would take it with me and dispose it later.,takeaway
+3,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+3,visible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+3,visible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+3,visible_far,alu,I would walk to the RCP and throw it into the container.,rcp
+3,invisible_close,glass,I would take it with me and dispose it later.,takeaway
+3,invisible_close,alu,I would take it with me and dispose it later.,takeaway
+3,invisible_close_unknown,glass,I would take it with me and dispose it later.,takeaway
+3,invisible_close_unknown,alu,I would take it with me and dispose it later.,takeaway
+3,invisible_far,glass,I would take it with me and dispose it later.,takeaway
+3,invisible_far,alu,I would take it with me and dispose it later.,takeaway
+3,invisible_far_unknown,glass,I would take it with me and dispose it later.,takeaway
+3,invisible_far_unknown,alu,I would take it with me and dispose it later.,takeaway
+4,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+4,visible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+4,visible_far,glass,I would throw it into the regular bin right next to me.,bin
+4,visible_far,alu,I would throw it into the regular bin right next to me.,bin
+4,invisible_close,glass,I would throw it into the regular bin right next to me.,bin
+4,invisible_close,alu,I would throw it into the regular bin right next to me.,bin
+4,invisible_close_unknown,glass,I would throw it into the regular bin right next to me.,bin
+4,invisible_close_unknown,alu,I would throw it into the regular bin right next to me.,bin
+4,invisible_far,glass,I would throw it into the regular bin right next to me.,bin
+4,invisible_far,alu,I would throw it into the regular bin right next to me.,bin
+4,invisible_far_unknown,glass,I would throw it into the regular bin right next to me.,bin
+4,invisible_far_unknown,alu,I would throw it into the regular bin right next to me.,bin
+5,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+5,visible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+5,visible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+5,visible_far,alu,I would walk to the RCP and throw it into the container.,rcp
+5,invisible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+5,invisible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+5,invisible_close_unknown,glass,I would take it with me and dispose it later.,takeaway
+5,invisible_close_unknown,alu,"Other, please specify below.",other
+5,invisible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+5,invisible_far,alu,"Other, please specify below.",other
+5,invisible_far_unknown,glass,I would take it with me and dispose it later.,takeaway
+5,invisible_far_unknown,alu,"Other, please specify below.",other
+6,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+6,visible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+6,visible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+6,visible_far,alu,I would walk to the RCP and throw it into the container.,rcp
+6,invisible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+6,invisible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+6,invisible_close_unknown,glass,I would take it with me and dispose it later.,takeaway
+6,invisible_close_unknown,alu,I would take it with me and dispose it later.,takeaway
+6,invisible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+6,invisible_far,alu,I would walk to the RCP and throw it into the container.,rcp
+6,invisible_far_unknown,glass,I would take it with me and dispose it later.,takeaway
+6,invisible_far_unknown,alu,I would take it with me and dispose it later.,takeaway
+7,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+7,visible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+7,visible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+7,visible_far,alu,I would walk to the RCP and throw it into the container.,rcp
+7,invisible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+7,invisible_close,alu,I would take it with me and dispose it later.,takeaway
+7,invisible_close_unknown,glass,I would take it with me and dispose it later.,takeaway
+7,invisible_close_unknown,alu,I would take it with me and dispose it later.,takeaway
+7,invisible_far,glass,I would take it with me and dispose it later.,takeaway
+7,invisible_far,alu,I would take it with me and dispose it later.,takeaway
+7,invisible_far_unknown,glass,I would take it with me and dispose it later.,takeaway
+7,invisible_far_unknown,alu,I would take it with me and dispose it later.,takeaway
+8,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+8,visible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+8,visible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+8,visible_far,alu,I would walk to the RCP and throw it into the container.,rcp
+8,invisible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+8,invisible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+8,invisible_close_unknown,glass,I would take it with me and dispose it later.,takeaway
+8,invisible_close_unknown,alu,I would take it with me and dispose it later.,takeaway
+8,invisible_far,glass,I would take it with me and dispose it later.,takeaway
+8,invisible_far,alu,I would take it with me and dispose it later.,takeaway
+8,invisible_far_unknown,glass,I would take it with me and dispose it later.,takeaway
+8,invisible_far_unknown,alu,I would take it with me and dispose it later.,takeaway
+9,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+9,visible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+9,visible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+9,visible_far,alu,I would walk to the RCP and throw it into the container.,rcp
+9,invisible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+9,invisible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+9,invisible_close_unknown,alu,I would throw it into the regular bin right next to me.,bin
+9,invisible_close_unknown,glass,I would take it with me and dispose it later.,takeaway
+9,invisible_far,glass,I would take it with me and dispose it later.,takeaway
+9,invisible_far,alu,I would take it with me and dispose it later.,takeaway
+9,invisible_far_unknown,glass,I would take it with me and dispose it later.,takeaway
+9,invisible_far_unknown,alu,I would take it with me and dispose it later.,takeaway
+10,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+10,visible_close,alu,I would walk to the RCP and throw it into the container.,rcp
+10,visible_far,glass,I would take it with me and dispose it later.,takeaway
+10,visible_far,alu,I would take it with me and dispose it later.,takeaway
+11,visible_close,alu,I would throw it into the regular bin right next to me.,bin
+11,visible_close,glass,I would walk to the RCP and throw it into the container.,rcp
+11,visible_far,alu,I would throw it into the regular bin right next to me.,bin
+11,visible_far,glass,I would take it with me and dispose it later.,takeaway
+11,invisible_close,glass,I would take it with me and dispose it later.,takeaway
+11,invisible_close,alu,I would take it with me and dispose it later.,takeaway
+11,invisible_close_unknown,glass,I would throw it into the regular bin right next to me.,bin
+11,invisible_close_unknown,alu,I would throw it into the regular bin right next to me.,bin
+11,invisible_far,glass,I would walk to the RCP and throw it into the container.,rcp
+11,invisible_far,alu,I would walk to the RCP and throw it into the container.,rcp
+11,invisible_far_unknown,glass,I would take it with me and dispose it later.,takeaway
+11,invisible_far_unknown,alu,I would take it with me and dispose it later.,takeaway

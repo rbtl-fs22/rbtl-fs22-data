@@ -1,0 +1,32 @@
+﻿fileName,variableName,description,unitText,variableType
+2022-05-04_UserRespones.csv,date_started,Date at which the survey was conducted ,NA,numeric/date
+2022-05-04_UserRespones.csv,age,Question: What age group are you in? Answer: Number Range,NA,numeric
+2022-05-04_UserRespones.csv,job,Question: What is your occupation? Answer: Choice (Text),NA,text
+2022-05-04_UserRespones.csv,residence_situation,Question: What is your current residence situation? Answer: Choice (Text),NA,text
+2022-05-04_UserRespones.csv,residence_type,Questions: What type of residence do you live in? Answer: Choice (Text),NA,text
+2022-05-04_UserRespones.csv,location_bin,Questions: Do you know where a recycling bin in Oerlikon station is? Answer: Yes/No,NA,text
+2022-05-04_UserRespones.csv,number_recycling,Questions: On a scale from 1 to 5 (5 is the best) how sufficient do you think the number of recycling bins in Oerlikon is? Answer: Number,NA,numeric
+2022-05-04_UserRespones.csv,deposit,Question: Would a 1 CHF deposit on glass bottles and cans make you more likely to recycle? Answer: Yes/No,NA,text
+2022-05-04_UserRespones.csv,residence_distance,"Question: On a scale from 1 to 5 (5 is the best), how comfortable are you with the distance of the next neighbourhood recycling station (glass/alu) from your residence? Answer: Number",NA,numeric
+2022-05-04_UserRespones.csv,zurisack,"Question: On a scale from 1 to 5, how comfortable are you with the price of Zürisäcke? Answer: Number",NA,numeric
+2022-05-04_UserRespones.csv,price_pet,Question: What monthly subscription would you be willing to pay for a PET bin outside your home? Answer: Number,CHF,numeric
+2022-05-04_UserRespones.csv,price_paper,Question: What monthly subscription would you be willing to pay for a paper/carton bin outside your home? Answer: Number,CHF,numeric
+2022-05-04_UserRespones.csv,price_glass,Question: What monthly subscription would you be willing to pay for a metal/glass bin outside your home? Answer: Number,CHF,numeric
+2022-05-04_UserRespones.csv,comment,Question: Please give any suggestions on how to improve recycling in Zurich? Answer: Text,NA,text
+2022-05-04_UserRespones.csv,feedback,"Question: Please, can you give us a short feedback about this survey? Answer: Text",NA,text
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,bin_id ,ERZ identification number for the waste bin,NA,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,distance_recycle,distance in m to the nearest recycle bin  ,m,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,party_location,whether or not the bin is at a station in a high traffic area for late night partying,NA,text
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,plastic_content_bottles,amount of plastic bottles in kg of all bins in the location,kg,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,plastic_content_non_bottles,amount of non plastic bottles in kg of all bins in the location,kg,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,metal_content,amount of metal in kg of all bins in the location,kg,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,glass_content,amount of glass in kg of all bins in the location,kg,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,weight_total,total waste in kg  of all bins in the location,kg,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,weight_remaining,waste remaining after sorting out recyclables in kg,kg,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,plastic_ratio_bottles,plastic_content_bottles /(sum of all weight_total in one location),NA,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,plastic_ratio_non_bottles,plastic_content_non_bottles /(sum of all weight_total in one location),NA,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,metal_ratio,metal_content / weight_total,NA,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,glass_ratio,glass_content / weight_total,NA,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,sorting_id,number of waste bin during sorting,NA,numeric
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,day_of_collection,on which day it was collected ,NA,numeric/date
+2022-05-04_waste_characterisation_single_bins_raw_data.csv & 2022-05-04_waste_characterisation_total_bins_raw_data.csv,area_id,define the area in which the trash was collected,NA,text

@@ -1,0 +1,7 @@
+answer;answer_short;visible_close;visivle_far;invisible_close;invisible_close_unknown;invisible_far;invisible_far_unknown
+I would throw it into the regular bin right next to me.;bin;TRUE;TRUE;TRUE;TRUE;TRUE;TRUE
+I would find out where the next RCP is and decide to throw it into the regular bin.;bin+;FALSE;FALSE;FALSE;TRUE;FALSE;TRUE
+I would walk to the RCP and throw it into the container.;rcp;TRUE;TRUE;TRUE;FALSE;TRUE;FALSE
+I would find out where the next RCP is, walk to the RCP and throw it into the container.;rcp+;FALSE;FALSE;FALSE;TRUE;FALSE;TRUE
+I would take it with me and dispose it later.;takeaway;TRUE;TRUE;TRUE;TRUE;TRUE;TRUE
+Other, please specify below.;other;TRUE;TRUE;TRUE;TRUE;TRUE;TRUE
