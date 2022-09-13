@@ -3,46 +3,46 @@ message: "If you use this data, please cite it as below."
 authors:
 - family-names: Ben Aleya
   given-names: Ali
-  orcid: 
+  orcid: https://orcid.org/0000-0002-1111-9379
 - family-names: Biek
   given-names: Daniel
-  orcid: 
+  orcid: https://orcid.org/0000-0002-3532-4991
 - family-names: Boynton
   given-names: Lin
-  orcid: 
-- family-names: Jäggi
+  orcid: https://orcid.org/0000-0002-9944-3834
+- family-names: Jaeggi
   given-names: Julia
-  orcid: 
+  orcid: https://orcid.org/0000-0002-0487-8967 
 - family-names: Loos
-  given-names: Sebastian
-  orcid: 
+  given-names: Sebastian Camilo
+  orcid: https://orcid.org/0000-0002-8830-1734
 - family-names: Meyer-Piening
   given-names: Chiara
-  orcid: 
+  orcid: https://orcid.org/0000-0002-9944-3834
 - family-names: Ogwang
   given-names: Jonathan Olal
-  orcid: 
+  orcid: https://orcid.org/0000-0002-7656-1897
 - family-names: Overhoff
   given-names: Milena
-  orcid: 
+  orcid: https://orcid.org/0000-0002-6563-6478
 - family-names: Schöbitz
   given-names: Lars
   orcid: https://orcid.org/0000-0003-2196-5015
 - family-names: Sigrist
   given-names: Samuel
-  orcid: 
+  orcid: https://orcid.org/0000-0003-4697-3329
 - family-names: Tilley
   given-names: Elizabeth
-  orcid: 
+  orcid: https://orcid.org/0000-0002-2095-9724
 - family-names: Triebold
-  given-names: Nicolas
-  orcid: 
+  given-names: Nicolas Y.C.
+  orcid: https://orcid.org/0000-0001-8030-9793
 - family-names: Oda
   given-names: Vigen
-  orcid: 
+  orcid: https://orcid.org/0000-0002-3892-0705
 - family-names: Vijay
   given-names: Saloni
-  orcid: 
+  orcid: https://orcid.org/0000-0001-5883-5308
 title: "Research Beyond the Lab, Spring Term 2022, Global Health Engineering, ETH Zurich. Raw dat and analysis-ready derived data on waste management in public spaces in Zurich, Switzerland."
 version: 0.0.1
 date-released: YYYY-MM-DD
