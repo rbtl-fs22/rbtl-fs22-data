@@ -7,7 +7,7 @@ You are free:
 
 Under the following terms:
 
-- Attribution — You must give appropriate credit using the suggested citation, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
+- Attribution — You must give appropriate credit using the [suggested citation](https://github.com/rbtl-fs22/data#citation), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
 
 - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. 
 
