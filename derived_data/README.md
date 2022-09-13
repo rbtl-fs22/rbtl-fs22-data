@@ -2,7 +2,7 @@
 
 This directory contains analysis-ready data that has been cleaned using scripts in `/data/src/`. Sub-directories are structured by team in rbtl-fs22.
 
-## `data/derived_data/TEAM_NAME/metadata/`
+## `derived_data/TEAM_NAME/metadata/`
 
 This directory contains metadata for the tidy datasets. 
 
