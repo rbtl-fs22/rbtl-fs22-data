@@ -17,25 +17,17 @@ library(lubridate)
 ## Waste characterisation
 
 waste_bellevue <- read_delim(
-  here::here("data/raw_data/rbtl_fs22_waste_composition_bellevue.csv"), 
+  here::here("raw_data/disposa-liz/rbtl_fs22_waste_composition_bellevue.csv"), 
   delim = ";")
-
-waste_bellevue_attr <-  read_delim(
-  here::here("data/raw_data/rbtl_fs22_waste_composition_bellevue_attributes.csv"),
-  delim = ";"
-)
 
 waste_cigs <- read_delim(
-  here::here("data/raw_data/rtbl_fs22_cigarets_in_bin_bellevue.csv"),
+  here::here("raw_data/disposa-liz/rtbl_fs22_cigarets_in_bin_bellevue.csv"),
   delim = ";")
 
-waste_cigs_attr <- read_delim(
-  here::here("data/raw_data/rtbl_fs22_cigarets_in_bin_bellevue_attributes.csv"),
-  delim = ";")
 
 ## Survey data
 
-survey_data <- read_csv(here::here("data/raw_data/UserResponses.csv"))
+survey_data <- read_csv(here::here("raw_data/disposa-liz/UserResponses.csv"))
 
 
 # tidy data ---------------------------------------------------------------
@@ -94,10 +86,10 @@ survey_data_tidy <- survey_data_step1 %>%
 # write data --------------------------------------------------------------
 
 write_csv(x = waste_bellevue_tidy, 
-          file = "data/tidy_data/waste-characterisation-data-bellevue-tidy.csv")
+          file = "derived_data/disposa-liz/waste-characterisation-data-bellevue-tidy.csv")
 
 write_csv(x = waste_cigs,
-          file = "data/tidy_data/waste-characterisation-data-cigarettes-tidy.csv")
+          file = "derived_data/disposa-liz/waste-characterisation-data-cigarettes-tidy.csv")
 
 write_csv(x = survey_data_tidy,
-          file = "data/tidy_data/survey-data-tidy.csv")
+          file = "derived_data/disposa-liz/survey-data-tidy.csv")

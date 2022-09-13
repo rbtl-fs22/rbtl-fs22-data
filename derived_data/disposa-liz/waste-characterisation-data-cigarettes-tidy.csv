@@ -3,7 +3,7 @@ number,identifier,location,ch_coordinates_x,ch_coordinates_y,bin_type,cigaret_nu
 2,Bellevueplatz_North,Bellevueplatz,2683577,1246849,Recyclingstation,12,NA
 3,Bellevueplatz_West,Bellevueplatz,2683550,1246832,Recyclingstation,14,NA
 4,Bellevueplatz_East,Bellevueplatz,2683594,1246824,Recyclingstation,13,NA
-5,Theaterstrasse_West,Bellevueplatz,2683612,1246831,Recyclingstation,0,apparently empty
+5,Theaterstrasse_West,Bellevueplatz,2683612,1246831,Recyclingstation,0,;apparently empty
 6,Bellevueplatz_South,Bellevueplatz,2683558,1246816,Recyclingstation,34,NA
 7,Schoeckstrasse,nA,2683583,1246793,Recyclingstation,0,NA
 8,Theaterstrasse,Theaterstrasse / St. Urbangasse,2683631,1246824,Abfallhai,0,NA
