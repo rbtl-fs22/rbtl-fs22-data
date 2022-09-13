@@ -15,12 +15,12 @@ library(lubridate)
 # import data -------------------------------------------------------------
 
 waste_single_bins <- read_csv(
-  here::here("data/raw_data/2022-05-03_waste_characterisation_single_bins_raw_data.csv"))
+  here::here("raw_data/partners-in-grime/2022-05-03_waste_characterisation_single_bins_raw_data.csv"))
 
 waste_total_bins <- read_csv(here::here(
-  "data/raw_data/2022-05-04_waste_characterisation_total_bins_raw_data.csv"))
+  "raw_data/partners-in-grime/2022-05-04_waste_characterisation_total_bins_raw_data.csv"))
 
-survey_data <- read_csv(here::here("data/raw_data/2022-05-04_survey-data.csv"),
+survey_data <- read_csv(here::here("raw_data/partners-in-grime/2022-05-04_survey-data.csv"),
                         na = c(NA, "-"))
 
 # tidy data ---------------------------------------------------------------
@@ -95,10 +95,10 @@ survey_data_tidy_long <- survey_data_tidy %>%
 # write data --------------------------------------------------------------
 
 write_csv(x = waste_data_tidy, 
-          file = "data/tidy_data/waste-characterisation-data-tidy.csv")
+          file = "derived_data/partners-in-grime/waste-characterisation-data-tidy.csv")
 
 write_csv(x = survey_data_tidy, 
-          file = "data/tidy_data/survey-data-tidy.csv")
+          file = "derived_data/partners-in-grime/survey-data-tidy.csv")
 
 write_csv(x = survey_data_tidy_long, 
-          file = "data/tidy_data/survey-data-tidy-long.csv")
+          file = "derived_data/partners-in-grime/survey-data-tidy-long.csv")
