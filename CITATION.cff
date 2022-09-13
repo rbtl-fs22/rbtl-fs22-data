@@ -45,6 +45,5 @@ authors:
   orcid: https://orcid.org/0000-0001-5883-5308
 title: "Research Beyond the Lab, Spring Term 2022, Global Health Engineering, ETH Zurich. Raw dat and analysis-ready derived data on waste management in public spaces in Zurich, Switzerland."
 version: 0.0.1
-preferred-citation:
-  type: data
+type: dataset
 date-released: YYYY-MM-DD
