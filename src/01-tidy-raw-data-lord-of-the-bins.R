@@ -18,16 +18,16 @@ library(lubridate)
 ## Waste characterisation
 
 waste_sheet1 <- read_csv(
-  here::here("data/raw_data/04-05-2022_rbtl_data_sheet1.csv"))
+  here::here("raw_data/lord-of-the-bins/04-05-2022_rbtl_data_sheet1.csv"))
 
 waste_sheet2 <- read_csv(here::here(
-  "data/raw_data/04-05-2022_rbtl_data_sheet2.csv"))
+  "raw_data/lord-of-the-bins/04-05-2022_rbtl_data_sheet2.csv"))
 
 ## Survey data
 
-survey_data_general <- read_csv(here::here("data/raw_data/UserResponses_general.csv"))
-survey_data_recycling <- read_csv(here::here("data/raw_data/UserResponses_recycling.csv"))
-survey_data_compost <- read_csv(here::here("data/raw_data/UserResponses_compost.csv"))
+survey_data_general <- read_csv(here::here("raw_data/lord-of-the-bins/UserResponses_general.csv"))
+survey_data_recycling <- read_csv(here::here("raw_data/lord-of-the-bins/UserResponses_recycling.csv"))
+survey_data_compost <- read_csv(here::here("raw_data/lord-of-the-bins/UserResponses_compost.csv"))
 
 
 # tidy data ---------------------------------------------------------------
@@ -152,14 +152,14 @@ survey_data_compost_tidy <- survey_data_compost %>%
 # write data --------------------------------------------------------------
 
 write_csv(x = waste_data_tidy, 
-          file = "data/tidy_data/waste-characterisation-data-tidy.csv")
+          file = "derived_data/lord-of-the-bins/waste-characterisation-data-tidy.csv")
 
 write_csv(x = survey_data_recycling_tidy,
-          file = "data/tidy_data/survey-data-recycling-tidy.csv")
+          file = "derived_data/lord-of-the-bins/survey-data-recycling-tidy.csv")
 
 write_csv(x = survey_data_general_tidy,
-          file = "data/tidy_data/survey-data-general-tidy.csv")
+          file = "derived_data/lord-of-the-bins/survey-data-general-tidy.csv")
 
 write_csv(x = survey_data_compost_tidy,
-          file = "data/tidy_data/survey-data-compost-tidy.csv")
+          file = "derived_data/lord-of-the-bins/survey-data-compost-tidy.csv")
 
