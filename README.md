@@ -1,6 +1,6 @@
 # README
 
-This directory contains analysis-ready data that has been cleaned using scripts in `~/research-project-template/src/`. It will be published in open formats (CSV). 
+This directory contains analysis-ready data that has been cleaned using scripts in `~/data/src/`. It will be published in open formats (CSV). 
 
 ## `data/raw_data/metadata`
 

@@ -1,0 +1,7 @@
+﻿obj_id,bin_id ,sorting_id,day_of_collection,area_id,party_location,plastic_content_bottles,plastic_content_non_bottles,metal_content,glass_content,weight_total
+obj_27,total_10,NA,07/04/2022,Oerlikon,yes,0.4,NA,1.2,2.4,12
+obj_26,total_1,NA,07/04/2022,Stettbach,no,0.8,1,1.7,1.7,14.8
+obj_30,total_5,NA,07/04/2022,Schwammendingen,no,1.1,0.8,1.7,2.7,22.2
+obj_27,total_10,NA,04/04/2022,Oerlikon,yes,0.4,0.4,0.8,0.4,10.7
+obj_26,total_1,NA,04/04/2022,Stettbach,no,0.6,0.9,1.4,1.5,12.5
+obj_30,total_5,NA,04/04/2022,Schwammendingen,no,0.7,0.4,0.3,0.8,8.1

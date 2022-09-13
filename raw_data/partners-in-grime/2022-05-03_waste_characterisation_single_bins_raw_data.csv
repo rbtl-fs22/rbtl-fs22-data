@@ -1,0 +1,23 @@
+﻿obj_id,bin_id ,sorting_id,day_of_collection,area_id,party_location,plastic_content_bottles,plastic_content_non_bottles,metal_content,glass_content,weight_total
+2753,3389,10,07/04/2022,Oerlikon,yes,NA,NA,0.8,NA,4
+2752,3388,11,07/04/2022,Oerlikon,yes,NA,NA,0.4,NA,3.3
+2754,3891,12,07/04/2022,Oerlikon,yes,NA,NA,NA,NA,4.7
+2678,2916,1,07/04/2022,Stettbach,no,NA,NA,NA,NA,3.7
+2672,2910,2,07/04/2022,Stettbach,no,NA,NA,NA,NA,2.6
+2671,2909,3,07/04/2022,Stettbach,no,NA,NA,NA,NA,4
+2675,2913,4,07/04/2022,Stettbach,no,NA,NA,NA,NA,4.5
+3002,3348,5,07/04/2022,Schwammendingen,no,NA,NA,NA,NA,5
+3001,3347,6,07/04/2022,Schwammendingen,no,NA,NA,NA,NA,6
+629,7144,7,07/04/2022,Schwammendingen,no,NA,NA,NA,NA,4.7
+628,7641,8,07/04/2022,Schwammendingen,no,NA,NA,NA,NA,6.5
+2753,3389,10,04/04/2022,Oerlikon,yes,NA,NA,NA,NA,4.2
+2752,3388,11,04/04/2022,Oerlikon,yes,NA,NA,NA,NA,2.3
+2754,3891,12,04/04/2022,Oerlikon,yes,NA,NA,NA,NA,4.2
+2678,2916,1,04/04/2022,Stettbach,no,NA,NA,NA,NA,2.9
+2672,2910,2,04/04/2022,Stettbach,no,NA,NA,NA,NA,2.1
+2671,2909,3,04/04/2022,Stettbach,no,NA,NA,NA,NA,4.2
+2675,2913,4,04/04/2022,Stettbach,no,NA,NA,NA,NA,3.3
+3002,3348,5,04/04/2022,Schwammendingen,no,NA,NA,NA,NA,2.4
+3001,3347,6,04/04/2022,Schwammendingen,no,NA,NA,NA,NA,1.7
+629,7144,7,04/04/2022,Schwammendingen,no,NA,NA,NA,NA,3
+628,7641,8,04/04/2022,Schwammendingen,no,NA,NA,NA,NA,1
