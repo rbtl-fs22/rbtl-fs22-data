@@ -14,9 +14,9 @@ library(lubridate)
 
 # import data -------------------------------------------------------------
 
-waste_data <- read_csv2(here::here("data/raw_data/2022-04-07_waste_characterisation_clean.csv")) 
+waste_data <- read_csv2(here::here("raw_data/bananas-in-pyjamas/2022-04-07_waste_characterisation_clean.csv")) 
 
-survey_data <- read_csv(here::here("data/raw_data/UserResponses.csv")) 
+survey_data <- read_csv(here::here("raw_data/bananas-in-pyjamas/UserResponses.csv")) 
 
 # tidy data ---------------------------------------------------------------
 
@@ -84,19 +84,19 @@ survey_data_tidy_behaviour <- survey_data_tidy %>%
 ## waste characterisation
 
 write_csv(x = waste_data_tidy,
-          file = here::here("data/tidy_data/waste-characterisation-data-tidy.csv"))
+          file = here::here("derived_data/bananas-in-pyjamas/waste-characterisation-data-tidy.csv"))
 
 write_csv(x = waste_data_cans_tidy,
-          file = here::here("data/tidy_data/waste-characterisation-data-cans-tidy.csv"))
+          file = here::here("derived_data/bananas-in-pyjamas/waste-characterisation-data-cans-tidy.csv"))
 
 ## survey data
 
 write_csv(x = survey_data_tidy_general,
-          file = here::here("data/tidy_data/survey-data-general-tidy.csv"))
+          file = here::here("derived_data/bananas-in-pyjamas/survey-data-general-tidy.csv"))
 
 
 write_csv(x = survey_data_tidy_behaviour,
-          file = here::here("data/tidy_data/survey-data-behaviour-tidy.csv")) 
+          file = here::here("derived_data/bananas-in-pyjamas/survey-data-behaviour-tidy.csv")) 
 
 ## plot suggestion
 
