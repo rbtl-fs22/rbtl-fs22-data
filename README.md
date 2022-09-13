@@ -48,6 +48,6 @@ This folder contains R scripts used to clean raw data (`raw_data`) of each team 
 
 # Citation
 
-This citation is derived from the [CITATION.cff](https://github.com/rbtl-fs22/data/blob/main/CITATION.cff) file in this repo and can also be accessed as a bibliography (citation.bib)[https://github.com/rbtl-fs22/data/blob/main/citation.bib] file. 
+This citation is derived from the [CITATION.cff](https://github.com/rbtl-fs22/data/blob/main/CITATION.cff) file in this repo and can also be accessed as a bibliography [(citation.bib)](https://github.com/rbtl-fs22/data/blob/main/citation.bib) file. 
 
 Ben Aleya, A., Biek, D., Boynton, L., Jaeggi, J., Loos, S. C., Meyer-Piening, C., Ogwang, J. O., Overhoff, M., Schöbitz, L., Sigrist, S., Tilley, E., Triebold, N. Y., Oda, V., & Vijay, S. Research Beyond the Lab, Spring Term 2022, Global Health Engineering, ETH Zurich. Raw dat and analysis-ready derived data on waste management in public spaces in Zurich, Switzerland. (Version 0.0.1) [Data set]
