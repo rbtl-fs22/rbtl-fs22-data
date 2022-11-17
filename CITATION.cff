@@ -44,6 +44,7 @@ authors:
   given-names: Saloni
   orcid: https://orcid.org/0000-0001-5883-5308
 title: "Research Beyond the Lab, Spring Term 2022, Global Health Engineering, ETH Zurich. Raw data and analysis-ready derived data on waste management in public spaces in Zurich, Switzerland."
-version: 0.1
+version: 0.1.1
 type: dataset
+doi: https://doi.org/10.5281/zenodo.7331120
 date-released: 2022-11-17

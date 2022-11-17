@@ -2,7 +2,7 @@
 
 # README
 
-This repository contains all raw and derived data produced as part of the ETH Zurich course "Research Beyond the Lab: Open Science and Research Methods for a Global Engineer" (151-8102-00L) offered in spring term 2022. 
+This repository contains all raw and derived data produced as part of the [ETH Zurich course "Research Beyond the Lab: Open Science and Research Methods for a Global Engineer" (151-8102-00L)](https://rbtl-fs22.github.io/website/) offered in spring term 2022. 
 
 Students were assigned teams of four to conduct a collaborative research project broadly addressing the theme of “Trash in the Public Spaces of Zurich” in collaboration with [Entsorgung & Recycling Zürich (ERZ)](https://www.stadt-zuerich.ch/ted/de/index/entsorgung_recycling.html), the waste management department at Stadt Zürich.
 
