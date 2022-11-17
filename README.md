@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/516293877.svg)](https://zenodo.org/badge/latestdoi/516293877)
+
 # README
 
 This repository contains all raw and derived data produced as part of the ETH Zurich course "Research Beyond the Lab: Open Science and Research Methods for a Global Engineer" (151-8102-00L) offered in spring term 2022. 
